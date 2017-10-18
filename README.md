@@ -19,7 +19,7 @@ multiple values to the list
 
 Usage
 ---
-Add the dependency on pom.xml
+Add the dependencies:
 
 #### Maven
 ```xml
@@ -35,7 +35,7 @@ Add the dependency on pom.xml
 compile 'com.marcosbarbero.cloud:spring-cloud-zuul-ratelimit:1.3.4.RELEASE'
 ```
 
-Add the following dependency accordingly to the chosen data storage: 
+Also add the following dependency accordingly to the chosen data storage: 
 
  1. Redis
   ```xml
