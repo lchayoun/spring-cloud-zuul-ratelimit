@@ -19,15 +19,20 @@ multiple values to the list
 
 Usage
 ---
->This project is available on maven central
-
 Add the dependency on pom.xml
+
+#### Maven
 ```xml
 <dependency>
     <groupId>com.marcosbarbero.cloud</groupId>
     <artifactId>spring-cloud-zuul-ratelimit</artifactId>
     <version>1.3.4.RELEASE</version>
 </dependency>
+```
+
+#### Gradle
+```yaml
+compile 'com.marcosbarbero.cloud:spring-cloud-zuul-ratelimit:1.3.4.RELEASE'
 ```
 
 Add the following dependency accordingly to the chosen data storage: 
