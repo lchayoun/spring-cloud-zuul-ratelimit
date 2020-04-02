@@ -21,6 +21,10 @@
         </dependency>
     </dependencies>
 
+    <properties>
+        <sonar.projectKey>lchayoun_spring-cloud-zuul-ratelimit-parent</sonar.projectKey>
+    </properties>
+
     <distributionManagement>
         <snapshotRepository>
             <id>ossrh</id>
