@@ -16,6 +16,7 @@
 
     <properties>
         <nexus-staging-maven-plugin.version>1.6.3</nexus-staging-maven-plugin.version>
+        <sonar.projectKey>lchayoun_spring-cloud-zuul-ratelimit-dependencies</sonar.projectKey>
     </properties>
 
     <licenses>
