@@ -21,6 +21,7 @@
 
     <properties>
         <main.basedir>${basedir}/..</main.basedir>
+        <sonar.projectKey>lchayoun_spring-cloud-zuul-ratelimit-core</sonar.projectKey>
     </properties>
 
     <dependencies>
