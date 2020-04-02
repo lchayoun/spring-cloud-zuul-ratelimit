@@ -43,7 +43,6 @@
             ${project.build.directory}/coverage-reports/jacoco.exec
         </jacoco.ut.execution.data.file>
         <package.root.path>com/marcosbarbero/cloud/autoconfigure/zuul/ratelimit</package.root.path>
-        <sonar.projectKey>lchayoun_spring-cloud-zuul-ratelimit</sonar.projectKey>
         <sonar.organization>lchayoun</sonar.organization>
         <sonar.host.url>https://sonarcloud.io</sonar.host.url>
         <sonar.login>${env.SONAR_TOKEN}</sonar.login>
